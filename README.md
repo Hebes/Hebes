@@ -9,13 +9,13 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 - 🔭 My current job is game development
   
 
-- 🌱 I like to learn the development knowledge of unity3d  
+- 🌱 I like to learn the development knowledge  
   
 
-- 📖Those who have good knowledge can share with me  
+- 📖 Those who have good knowledge can share with me  
   
 
-- ⚡ Also like to toss, such as server gameplay  
+- ⚡ The target is independent game developers  
   
 <br/>  
 
